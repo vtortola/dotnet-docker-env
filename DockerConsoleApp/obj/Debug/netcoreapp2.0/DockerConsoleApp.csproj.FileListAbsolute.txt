@@ -1,0 +1,22 @@
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.deps.json
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.runtimeconfig.json
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.runtimeconfig.dev.json
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.dll
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.pdb
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.AssemblyInfoInputs.cache
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.AssemblyInfo.cs
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.dll
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.pdb
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.deps.json
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.runtimeconfig.json
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.runtimeconfig.dev.json
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.dll
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\bin\Debug\netcoreapp2.0\DockerConsoleApp.pdb
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.AssemblyInfo.cs
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.dll
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\DockerConsoleApp\obj\Debug\netcoreapp2.0\DockerConsoleApp.pdb

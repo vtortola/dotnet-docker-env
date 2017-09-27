@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  dockerconsoleapp:
+    image: dockerconsoleapp
+    env_file:
+      - ./config.env
+    build:
+      context: ./DockerConsoleApp
+      dockerfile: Dockerfile

@@ -1,0 +1,2 @@
+c:\users\valeriano.tortola\documents\visual studio 2017\Projects\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\valeriano.tortola\Documents\GitHub\dotnet-docker-env\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
